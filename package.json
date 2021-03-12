@@ -320,7 +320,7 @@
     "raw-loader": "^0.5.1",
     "react": "^16.9.0-alpha.0",
     "react-copy-to-clipboard": "^5.0.1",
-    "react-dev-utils": "^9.0.0",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.9.0-alpha.0",
     "react-error-overlay": "^5.1.6",
     "react-final-form": "4.0.2",
